@@ -1,5 +1,3 @@
-
-
 print("Welcome to our Cloud Project")
 
 name = input("Enter your name: ")
