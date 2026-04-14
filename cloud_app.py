@@ -1,5 +1,4 @@
-# Cloud Project Example
-# This code shows a simple program stored and shared using GitHub Cloud
+
 
 print("Welcome to our Cloud Project")
 
