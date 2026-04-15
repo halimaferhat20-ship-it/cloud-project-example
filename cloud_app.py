@@ -1,6 +1,6 @@
 print("Welcome to our Cloud Project")
 
-name = input("Enter your name: ")
+name = ("hello ")
 
 print("Hello", name)
 print("This program is stored on GitHub Cloud.")
